@@ -6,10 +6,14 @@ A web app to play sounds and apply some basic filters.
 ## Prerequisites
 * [NodeJS](https://nodejs.org/)
 * [Gulp](http://gulpjs.com/)
+* [Bower](http://bower.io/#install-bower)
+* [Ruby](https://www.ruby-lang.org/)
+* [Sass gem](http://sass-lang.com/install)
 
 ## Build
 1. npm install
-2. gulp build
+2. bower install
+3. gulp build
 
 
 ## Technologies
